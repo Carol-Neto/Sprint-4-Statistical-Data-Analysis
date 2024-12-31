@@ -1,5 +1,11 @@
 # Sprint 4 - Statistical Data Analysis
 
+I work as an analyst for the telecommunications company Megaline. The company offers customers two prepaid plans: Surf and Ultimate. The sales department wants to know which of the plans generates more revenue to adjust the advertising budget.
+
+You will perform a preliminary analysis of the plans based on a small selection of customers. You will have data from 500 Megaline customers: who the customers are, where they are from, which plan they use and the number of calls and messages made in 2018. My job is to analyze customer behavior and determine which prepaid plan generates more revenue. In this project, you will see exactly what aspects of customer behavior you need to analyze. Determining which plan, on average, generates more revenue is a task that can be solved using statistical tests. 
+
+---
+
 ## Step 1. Open the data file and study the general information
 
 ## Step 2. Prepare the data
